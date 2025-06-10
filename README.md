@@ -1,8 +1,8 @@
 ## Oi sou o Guilherme Abucarma
 
-- Eu sou estudante Mobile em flutter e android studio em java e também Unity 3d em c#
-- Tenho conhecimento nas linguagens de programação java para android dart em flutter, e c# em Unity 3d
-- Atualmente estou estudando flutter e melhorando meu github
+- Eu sou Desemvolvedor Mobile em flutter e android studio em java.
+- Sou desemvolvedor Unity 2d/3d e game design.
+- Atualmente estou estudando Unity 3d e game design.
 - Pronouns: ele <!-- - 📨 Contate-me no email: guiabucarma@gmail.com ou guiabucarma@hotmail.com -->
 
 <div>
