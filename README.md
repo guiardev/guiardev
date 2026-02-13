@@ -53,6 +53,7 @@
    <img align="center" alt="Unity-3d" height="30" width="35" src="https://icon-library.com/images/unity-icon/unity-icon-26.jpg">&nbsp;
    <img align="center" alt="Firebase" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">&nbsp;
    <img align="center" alt="github" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+    ![Snake animation](https://github.com/guiardev/guiardev/blob/output/github-contribution-grid-snake.svg)
 </div> -->
 
 <h2 align="left" style="color:white;" >Contate-me</h2>
@@ -61,4 +62,4 @@
   <a href="https://www.linkedin.com/in/guilherme-abucarma-2a34b1175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:guiabucarma@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
- ![Snake animation](https://github.com/guiardev/guiardev/blob/output/github-contribution-grid-snake.svg)
+ ![snake animation](https://github.com/guiardev/guiardev/blob/output/github-contribution-grid-snake2.svg)
