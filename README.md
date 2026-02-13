@@ -5,11 +5,12 @@
 - Atualmente estou estudando Unity 3D e game design.
 - Pronouns: ele <!-- - 📨 Contate-me no email: guiabucarma@gmail.com ou guiabucarma@hotmail.com -->
 
-<div>
+<!-- <div>
   <a href="https://github.com/guiardev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guireino&layout=compact&langs_count=7&theme=dark"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guireino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-</div>
+  </div> 
+-->
 
 ###
 
