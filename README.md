@@ -1,7 +1,8 @@
 ## Oi sou o Guilherme Abucarma
 
-- Eu sou Desenvolvedor Mobile em flutter.
-- Sou dev Unity 2d/3d e game design.
+- Eu sou Desenvolvedor Mobile em Flutter.
+- Sou dev Unity 2d/3d e Game Design.
+- Administrador Windows e Linux
 - Atualmente estou estudando Unity 3D e game design.
 - Pronouns: ele <!-- - 📨 Contate-me no email: guiabucarma@gmail.com ou guiabucarma@hotmail.com -->
 
