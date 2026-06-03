@@ -8,7 +8,7 @@ on:
 
   schedule:
 
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
 
 
 
@@ -33,7 +33,7 @@ jobs:
   generate:
 
     runs-on: ubuntu-latest
-
+  
     timeout-minutes: 10
 
     permissions:
